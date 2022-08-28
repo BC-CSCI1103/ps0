@@ -8,7 +8,7 @@ Robert Muller - Boston College
 
 ## Problem Set 0: Join
 
-### Due: Friday September 2, 2022, midnight
+### Due: Thursday September 1, 2022, midnight
 
 ### Points: 2
 
