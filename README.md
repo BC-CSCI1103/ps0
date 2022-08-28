@@ -36,7 +36,7 @@ Three simple administrative tasks and one reading.
     
     #### Generate a Personal Access Token for GitHub
     
-    We'll often be transferring files to and from our GitHub accounts. In order to manage repeated access without repeatedly typing your GitHub ID and password, GitHub now requires you to establish personal access token. 
+    We'll often be transferring files to and from our GitHub accounts. In order to manage repeated access without repeatedly typing your GitHub ID and password, GitHub now requires you to create a personal access token. 
     
     Select **Settings** as shown in the drop-down image above. Then select **Developer Settings**, lower left. Then select **Personal access tokens**, left. Now select **Generate new token**. You'll be asked to provide your password to confirm your identity.
     
